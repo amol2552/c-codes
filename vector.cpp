@@ -21,4 +21,5 @@ int main()
 	{
 		cout << *it << endl;
 	}
+	return 0;
 }
